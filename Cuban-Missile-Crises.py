@@ -21,7 +21,7 @@ def random_row(board): #function to randomnly select a row number
     return randint(0, len(board) - 1)
 
 def random_col(board): #function to randomnly select a column number
-    return randint(0, len(board[0]) - 1)
+    return randint(0, len(board) - 1)
 
 ship_row = random_row(board)
 ship_col = random_col(board)
