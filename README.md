@@ -1,2 +1,2 @@
 # Battleship-game
-Advanced version of the basic battleship game
+Basic single-player version of the game created on CodeAcademy
